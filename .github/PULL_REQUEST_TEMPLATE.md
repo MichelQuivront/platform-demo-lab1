@@ -1,35 +1,17 @@
-## Description
+## Qu'est-ce qui a changé ?
+<!-- Décris les modifications -->
 
-<!-- Décrivez brièvement les changements apportés et leur objectif. -->
+## Pourquoi ?
+<!-- Contexte, issue liée : Closes #... -->
 
-## Issue liée
+## Comment tester ?
+1. 
+2. 
 
-<!-- Référencez l'issue concernée : "Closes #123" ou "Refs #123" -->
-
-Closes #
-
-## Type de changement
-
-<!-- Cochez les cases qui s'appliquent -->
-
-- [ ] Correction de bug (changement non-cassant qui résout un problème)
-- [ ] Nouvelle fonctionnalité (changement non-cassant qui ajoute une fonctionnalité)
-- [ ] Changement cassant (breaking change — fix ou fonctionnalité qui modifie un comportement existant)
-- [ ] Refactoring / amélioration du code (pas de changement fonctionnel)
-- [ ] Documentation
-- [ ] Configuration / CI / outillage
-- [ ] Tests uniquement
+## Risques ?
+<!-- Impact potentiel sur le reste -->
 
 ## Checklist
-
-- [ ] Mon code respecte les conventions du projet
-- [ ] J'ai effectué une relecture de mon propre code
-- [ ] J'ai ajouté des commentaires dans les zones complexes
-- [ ] J'ai mis à jour la documentation si nécessaire
-- [ ] Mes modifications ne génèrent aucun avertissement nouveau
-- [ ] J'ai ajouté des tests couvrant mes changements
-- [ ] Tous les tests existants passent
-
-## Notes pour les reviewers
-
-<!-- Informations supplémentaires, points d'attention particuliers, contexte... -->
+- [ ] Tests ajoutés / mis à jour
+- [ ] Documentation mise à jour
+- [ ] Pas de secrets dans le code
