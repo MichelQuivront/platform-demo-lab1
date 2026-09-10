@@ -1,0 +1,21 @@
+# .github/CODEOWNERS
+# Syntaxe : <pattern> <@owner ou @org/team>
+# La dernière règle qui matche gagne.
+
+# Fallback — tout ce qui n'est pas listé ci-dessous
+* @MichelQuivront
+
+# Code source de l'application
+/src/                   @MichelQuivront
+
+# Tests — reviewer dédié à la qualité
+/test/                  @MichelQuivront
+
+# Workflows CI/CD — ops/infra owner
+/.github/workflows/     @MichelQuivront
+
+# Config GitHub (CODEOWNERS, templates…)
+/.github/               @MichelQuivront
+
+# Fichiers de config à la racine
+package.json            @MichelQuivront
