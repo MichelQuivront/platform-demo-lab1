@@ -18,3 +18,5 @@ Dockerfile
 
 # Docs
 *.md
+
+package.json
