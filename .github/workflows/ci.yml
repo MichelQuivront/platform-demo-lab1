@@ -9,4 +9,4 @@ on:
 
 jobs:
   platform-ci:
-    uses: GitFabien/platform-demo-lab1/.github/workflows/Michel/ci.yml@main
+    uses: GitFabien/platform-demo-lab1/.github/workflows/ci-Quivront-Michel.yml@main
